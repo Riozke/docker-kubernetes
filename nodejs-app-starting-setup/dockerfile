@@ -1,3 +1,4 @@
+## FROM node:18 add a specific version
 FROM node
 
 WORKDIR /app
